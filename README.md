@@ -1,13 +1,14 @@
-<h1 align="center">Hi there👋, I'm Soumya Kukreti</h1>
-<h3 align="center">I make things look pretty. The rest is just code voodoo.</h3>
+<h1 align="left">Hi👋, I'm Soumya Kukreti</h1>
+<h3 align="left">I make things look pretty. The rest is just code voodoo 🪄๋</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyakukreti&label=Profile%20views&color=0e75b6&style=flat" alt="soumyakukreti" /> </p>
 
-- 🌍 Contributing to **Projects that aim for social good and positive impact.**
+My Driving force is working on **Projects that aim for social good and make life easier.** <br/>
+I'm passionate about blending technology with creativity. Always eager to learn and collaborate, let's connect!
 
-- 🚀 Diving into **AI/ML and Web Development**
+🚀 Diving into **AI/ML and Web Development**
 
-- 🎨 Exploring **UI/UX Design**
+🎨 Exploring **UI/UX Design**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

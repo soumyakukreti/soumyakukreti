@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋, I'm Soumya Kukreti</h1>
+<h1 align="left">Hi! I'm Soumya Kukreti</h1>
 <h3 align="left">I make things look pretty. The rest is just code voodoo 🪄๋</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumyakukreti&label=Profile%20views&color=0e75b6&style=flat" alt="soumyakukreti" /> </p>

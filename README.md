@@ -1,5 +1,5 @@
-<h1 align="left">Hi! I'm Soumya Kukreti</h1>
-<h3 align="left">I make things look pretty. The rest is just code voodoo 🪄๋</h3>
+<h1 align="left">Hi! I'm Soumya Kukreti 𓂃 ִֶָ𐀔</h1>
+<h3 align="left">I make things look pretty. The rest is just code voodoo 🪄⭑˚｡⋆</h3>
 
 
 My Driving force is working on **projects that aim for social good and make life easier.** <br/>

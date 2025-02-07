@@ -5,9 +5,9 @@
 My Driving force is working on **projects that aim for social good and make life easier.** <br/>
 I'm passionate about blending technology with creativity. Always eager to learn and collaborate, let's connect!
 
-🚀 Practising **AI/ML and Web Development**
+🚀 Practising **UI/UX Design and Web Development**
 
-🎨 Exploring **UI/UX Design**
+🎨 Exploring **AI/ML**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
